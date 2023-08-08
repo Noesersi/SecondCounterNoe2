@@ -1,3 +1,16 @@
+.bigCounter {
+    text-align: center;
+}
+.bigCounter div {
+    display: inline-block;
+    margin:auto;
+    font-size: 40px;
+    line-height: 50px;
+    padding: 10px;
+    background: #101010;
+    color: white;
+    margin: 3px;
+}
 
 /* 
 
